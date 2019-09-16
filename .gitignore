@@ -1,0 +1,7 @@
+/.idea
+/node_modules
+/public/storage
+/siteassets/frontend/video
+Homestead.yaml
+Homestead.json
+
